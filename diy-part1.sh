@@ -10,8 +10,8 @@
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 #
 
-#Clone SSRPlus source code
-#git clone https://github.com/fw876/helloworld package/SSRPlus
+#Clone passwall source code
+https://github.com/xiaorouji/openwrt-passwall package/passwall
 #Clone OpenAppFilter source code
 git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 
