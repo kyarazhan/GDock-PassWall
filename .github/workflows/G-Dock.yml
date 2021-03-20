@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: G-Dock
+name: G-Dock Passwall
 
 on:
   repository_dispatch:
@@ -30,7 +30,7 @@ on:
     types: started  
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/Lienol/lean-lede
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: G-Dock.config
