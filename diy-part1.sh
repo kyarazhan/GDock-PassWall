@@ -11,7 +11,7 @@
 #
 
 #Clone passwall source code
-https://github.com/xiaorouji/openwrt-passwall package/passwall
+https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
 #Clone OpenAppFilter source code
 git clone https://github.com/destan19/OpenAppFilter package/OpenAppFilter
 
